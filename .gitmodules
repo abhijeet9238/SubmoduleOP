@@ -1,0 +1,3 @@
+[submodule "SubmoduleClasslibrary"]
+	path = SubmoduleClasslibrary
+	url = https://github.com/abhijeet9238/SubmoduleClasslibrary.git
